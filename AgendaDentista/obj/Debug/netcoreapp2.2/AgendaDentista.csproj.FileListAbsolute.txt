@@ -1,0 +1,14 @@
+C:\Users\sergi\source\repos\AgendaDentista\AgendaDentista\bin\Debug\netcoreapp2.2\AgendaDentista.deps.json
+C:\Users\sergi\source\repos\AgendaDentista\AgendaDentista\bin\Debug\netcoreapp2.2\AgendaDentista.runtimeconfig.json
+C:\Users\sergi\source\repos\AgendaDentista\AgendaDentista\bin\Debug\netcoreapp2.2\AgendaDentista.runtimeconfig.dev.json
+C:\Users\sergi\source\repos\AgendaDentista\AgendaDentista\bin\Debug\netcoreapp2.2\AgendaDentista.dll
+C:\Users\sergi\source\repos\AgendaDentista\AgendaDentista\bin\Debug\netcoreapp2.2\AgendaDentista.pdb
+C:\Users\sergi\source\repos\AgendaDentista\AgendaDentista\obj\Debug\netcoreapp2.2\AgendaDentista.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\AgendaDentista\AgendaDentista\obj\Debug\netcoreapp2.2\AgendaDentista.RazorAssemblyInfo.cache
+C:\Users\sergi\source\repos\AgendaDentista\AgendaDentista\obj\Debug\netcoreapp2.2\AgendaDentista.RazorAssemblyInfo.cs
+C:\Users\sergi\source\repos\AgendaDentista\AgendaDentista\obj\Debug\netcoreapp2.2\AgendaDentista.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\AgendaDentista\AgendaDentista\obj\Debug\netcoreapp2.2\AgendaDentista.AssemblyInfo.cs
+C:\Users\sergi\source\repos\AgendaDentista\AgendaDentista\obj\Debug\netcoreapp2.2\AgendaDentista.RazorTargetAssemblyInfo.cache
+C:\Users\sergi\source\repos\AgendaDentista\AgendaDentista\obj\Debug\netcoreapp2.2\AgendaDentista.dll
+C:\Users\sergi\source\repos\AgendaDentista\AgendaDentista\obj\Debug\netcoreapp2.2\AgendaDentista.pdb
+C:\Users\sergi\source\repos\AgendaDentista\AgendaDentista\obj\Debug\netcoreapp2.2\AgendaDentista.csprojAssemblyReference.cache
